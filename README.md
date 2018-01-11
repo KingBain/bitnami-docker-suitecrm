@@ -13,7 +13,7 @@ https://www.suitecrm.com/
 
 ```bash
 $ curl -sSL https://raw.githubusercontent.com/bitnami/bitnami-docker-suitecrm/master/docker-compose.yml > docker-compose.yml
-$ docker-compose up -d
+$ sudo docker-compose up -d
 ```
 
 # Why use Bitnami Images?
